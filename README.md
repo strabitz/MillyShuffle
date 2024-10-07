@@ -2,7 +2,8 @@
 
 ## Overview
 
-
+This program automates the Milly Shuffle, a modified Swiss-system format for
+Melee Doubles.
 
 ## License
 
